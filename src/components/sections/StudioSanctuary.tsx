@@ -16,7 +16,7 @@ export const StudioSanctuary: React.FC<StudioSanctuaryProps> = ({ onOpenBooking 
     e.preventDefault();
     const contact = phoneNumber.trim() || 'Guest';
     const message = encodeURIComponent(
-      `Hello ANUSALOON! I would like to book an appointment. My contact number is: ${contact}`
+      `Hello BLUSH BLOOM! I would like to book an appointment. My contact number is: ${contact}`
     );
     // Open WhatsApp directly with the entered contact info
     window.open(`https://api.whatsapp.com/send?phone=923001234567&text=${message}`, '_blank');
@@ -66,7 +66,7 @@ export const StudioSanctuary: React.FC<StudioSanctuaryProps> = ({ onOpenBooking 
                       />
                       <text className="font-sans text-[7.6px] uppercase font-semibold tracking-[0.24em] fill-rich-black">
                         <textPath href="#circleSeal" startOffset="0%">
-                          ✦ WE CREATE BEAUTY &amp; WELL-BEING ✦ ANUSALOON
+                          ✦ WE CREATE BEAUTY &amp; WELL-BEING ✦ BLUSH BLOOM
                         </textPath>
                       </text>
                     </svg>
@@ -144,7 +144,7 @@ export const StudioSanctuary: React.FC<StudioSanctuaryProps> = ({ onOpenBooking 
                 </span>
               </div>
               <h2 className="font-serif text-2xl sm:text-3xl lg:text-[40px] font-light leading-[1.12] tracking-tight uppercase text-rich-black">
-                BEAUTY ATELIER IN GULBERG &ldquo;ANUSALOON&rdquo;
+                BEAUTY ATELIER IN GULBERG &ldquo;BLUSH BLOOM&rdquo;
               </h2>
             </motion.div>
 
@@ -321,7 +321,7 @@ export const StudioSanctuary: React.FC<StudioSanctuaryProps> = ({ onOpenBooking 
             >
               <div className="flex items-center justify-between p-4 border-b border-white/10 text-ivory">
                 <span className="font-serif italic text-lg text-champagne">
-                  ANUSALOON — The Atelier Film
+                  BLUSH BLOOM — The Atelier Film
                 </span>
                 <button
                   type="button"

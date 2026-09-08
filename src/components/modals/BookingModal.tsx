@@ -129,7 +129,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({
                 <div className="pt-2 flex flex-col gap-3">
                   <a
                     href={getWhatsAppLink(
-                      `Hi ANUSALOON, I just requested an appointment for ${formData.service} on ${formData.date}. Name: ${formData.fullName}`
+                      `Hi BLUSH BLOOM, I just requested an appointment for ${formData.service} on ${formData.date}. Name: ${formData.fullName}`
                     )}
                     target="_blank"
                     rel="noopener noreferrer"
@@ -157,7 +157,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({
                     RESERVE YOUR SERVICE
                   </h3>
                   <p className="font-sans text-xs text-sand/60 mt-1">
-                    Complete this quick form to reserve your chair at ANUSALOON.
+                    Complete this quick form to reserve your chair at BLUSH BLOOM.
                   </p>
                 </div>
 

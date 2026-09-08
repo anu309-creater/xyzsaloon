@@ -1,22 +1,22 @@
 import type { BrandConfig } from '../types';
 
 export const brandConfig: BrandConfig = {
-  name: 'ANUSALOON',
+  name: 'BLUSH BLOOM',
   tagline: 'BEAUTY, BUT MAKE IT YOURS.',
   address: '24-B Gulberg Main Boulevard',
   city: 'Lahore',
   country: 'Pakistan',
   phone: '+92 300 1234567',
   phoneRaw: '923001234567',
-  email: 'hello@anusaloon.com',
+  email: 'hello@blushbloom.com',
   hoursWeekday: 'Monday — Saturday: 10:00 AM — 9:00 PM',
   hoursSunday: 'Sunday: 12:00 PM — 8:00 PM',
   whatsappNumber: '+92 300 1234567',
-  whatsappMessage: "Hi ANUSALOON, I'd like to book an appointment.",
+  whatsappMessage: "Hi BLUSH BLOOM, I'd like to book an appointment.",
   socials: {
-    instagram: 'https://instagram.com/anusaloon',
-    facebook: 'https://facebook.com/anusaloon',
-    tiktok: 'https://tiktok.com/@anusaloon',
+    instagram: 'https://instagram.com/blushbloom',
+    facebook: 'https://facebook.com/blushbloom',
+    tiktok: 'https://tiktok.com/@blushbloom',
   },
 };
 

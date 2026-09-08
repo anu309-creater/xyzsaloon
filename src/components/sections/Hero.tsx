@@ -145,7 +145,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking }) => {
         <div className="absolute inset-0 z-0 overflow-hidden">
           <img
             src="/images/hero-banner.png?v=ultra-hd-4k"
-            alt="ANUSALOON Luxury Haute Couture Salon Model in Pink Satin Feather Dress"
+            alt="BLUSH BLOOM Luxury Haute Couture Salon Model in Pink Satin Feather Dress"
             className="w-full h-full object-cover object-right select-none"
             loading="eager"
             decoding="async"

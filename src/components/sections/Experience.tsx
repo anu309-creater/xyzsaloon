@@ -47,7 +47,7 @@ export const Experience: React.FC = () => {
           <SectionHeading
             theme="light"
             label="THE ATELIER JOURNEY"
-            title="THE ANUSALOON EXPERIENCE."
+            title="THE BLUSH BLOOM EXPERIENCE."
             subtitle="More than a simple appointment — an intentional luxury ritual crafted around slow beauty, attentive listening, and transformational results."
           />
         </div>

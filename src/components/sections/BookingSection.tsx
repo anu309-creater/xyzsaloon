@@ -107,7 +107,7 @@ export const BookingSection: React.FC<BookingSectionProps> = ({ preselectedServi
 
   const formattedWhatsAppUrl = submittedData
     ? getWhatsAppLink(
-        `Hi ANUSALOON, I just submitted an appointment request for ${submittedData.service} on ${submittedData.date} at ${submittedData.time}. Name: ${submittedData.fullName}`
+        `Hi BLUSH BLOOM, I just submitted an appointment request for ${submittedData.service} on ${submittedData.date} at ${submittedData.time}. Name: ${submittedData.fullName}`
       )
     : getWhatsAppLink();
 

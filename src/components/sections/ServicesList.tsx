@@ -346,7 +346,7 @@ export const ServicesList: React.FC<ServicesListProps> = ({ onSelectService }) =
                     </button>
 
                     <a
-                      href={getWhatsAppLink(`Hi ANUSALOON, I would like to book a consultation for ${selectedService.name} (${selectedService.priceFrom}). Please share available slots.`)}
+                      href={getWhatsAppLink(`Hi BLUSH BLOOM, I would like to book a consultation for ${selectedService.name} (${selectedService.priceFrom}). Please share available slots.`)}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="w-full py-2.5 bg-[#25D366]/10 hover:bg-[#25D366]/20 border border-[#25D366]/30 text-[#128C7E] font-sans text-[11px] font-semibold tracking-wider uppercase rounded-full transition-all duration-300 flex items-center justify-center gap-2"

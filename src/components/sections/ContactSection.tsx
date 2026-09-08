@@ -22,7 +22,7 @@ export const ContactSection: React.FC = () => {
       <div className="w-full aspect-[16/10] overflow-hidden relative">
         <img
           src="/images/contact-atelier-entrance.jpg"
-          alt="ANUSALOON Grand Atelier Architecture & Reception in Gulberg"
+          alt="BLUSH BLOOM Grand Atelier Architecture & Reception in Gulberg"
           loading="lazy"
           className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-106"
         />
@@ -74,7 +74,7 @@ export const ContactSection: React.FC = () => {
       <div className="w-full aspect-[16/10] overflow-hidden relative">
         <img
           src="/images/contact-vip-suite.jpg"
-          alt="ANUSALOON Private VIP Styling Suite & Valet Concierge"
+          alt="BLUSH BLOOM Private VIP Styling Suite & Valet Concierge"
           loading="lazy"
           className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-106"
         />

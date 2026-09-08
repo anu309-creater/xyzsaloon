@@ -69,7 +69,7 @@ export const LightboxModal: React.FC<LightboxModalProps> = ({ item, onClose }) =
                   </h4>
                 </div>
                 <span className="text-[11px] font-sans tracking-widest text-sand/60 uppercase">
-                  ANUSALOON ATELIER ARCHIVE
+                  BLUSH BLOOM ATELIER ARCHIVE
                 </span>
               </div>
             </div>

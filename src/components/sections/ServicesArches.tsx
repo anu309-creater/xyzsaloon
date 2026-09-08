@@ -81,7 +81,7 @@ export const ServicesArches: React.FC<ServicesArchesProps> = ({ onSelectService 
             transition={{ duration: 0.7, delay: 0.1 }}
             className="font-serif text-3xl sm:text-4xl lg:text-[46px] font-light tracking-tight leading-[1.08] uppercase text-rich-black"
           >
-            BEAUTY ATELIER &ldquo;ANUSALOON&rdquo; SERVICES
+            BEAUTY ATELIER &ldquo;BLUSH BLOOM&rdquo; SERVICES
           </motion.h2>
           
           <motion.p
