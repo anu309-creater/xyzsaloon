@@ -87,7 +87,7 @@ export const StudioSanctuary: React.FC<StudioSanctuaryProps> = ({ onOpenBooking 
                     loop
                     muted
                     playsInline
-                    preload="auto"
+                    preload="metadata"
                     className="w-full h-full object-cover transition-transform duration-1000 ease-out group-hover:scale-105"
                   >
                     <source src="/videos/sanctuary-arch-main.mp4" type="video/mp4" />
@@ -174,7 +174,7 @@ export const StudioSanctuary: React.FC<StudioSanctuaryProps> = ({ onOpenBooking 
                       loop
                       muted
                       playsInline
-                      preload="auto"
+                      preload="metadata"
                       className="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-106"
                     >
                       <source src="/videos/sanctuary-suite-video.mp4" type="video/mp4" />
@@ -220,7 +220,7 @@ export const StudioSanctuary: React.FC<StudioSanctuaryProps> = ({ onOpenBooking 
                       loop
                       muted
                       playsInline
-                      preload="auto"
+                      preload="metadata"
                       className="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-106"
                     >
                       <source src="/videos/stylist-precision-craft.mp4" type="video/mp4" />
