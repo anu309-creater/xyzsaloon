@@ -78,7 +78,7 @@ export const App: React.FC = () => {
           {/* 07 Centerpiece Before / After Transformation Slider */}
           <TransformationSlider onOpenBooking={() => handleOpenBooking('Haircut & Styling')} />
 
-          {/* 08 The BLUSH BLOOM Experience (3 Stages: Discover, Transform, Confident) */}
+          {/* 08 The ANUSALOON Experience (3 Stages: Discover, Transform, Confident) */}
           <Experience />
 
           {/* 14 Minimal Statistics */}

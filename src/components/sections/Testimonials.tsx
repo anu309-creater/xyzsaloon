@@ -60,7 +60,7 @@ export const Testimonials: React.FC = () => {
           <SectionHeading
             label="CLIENT TESTIMONIALS"
             title="IN THEIR OWN WORDS."
-            subtitle="Genuine reflections from guests who trusted BLUSH BLOOM with their defining moments and everyday confidence."
+            subtitle="Genuine reflections from guests who trusted ANUSALOON with their defining moments and everyday confidence."
           />
         </div>
 

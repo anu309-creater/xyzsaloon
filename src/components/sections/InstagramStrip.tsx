@@ -31,7 +31,7 @@ export const InstagramStrip: React.FC = () => {
               FOLLOW THE LOOK.
             </h2>
             <p className="font-serif italic text-lg text-champagne-dark mt-1">
-              @blushbloom
+              @anusaloon
             </p>
           </div>
 

@@ -54,7 +54,7 @@ export const MobileMenu: React.FC<MobileMenuProps> = ({
           {/* Top Bar */}
           <div className="flex items-center justify-between border-b border-dark-border/60 pb-6">
             <span className="font-serif text-2xl tracking-[0.2em] font-light text-ivory">
-              BLUSH BLOOM
+              ANUSALOON
             </span>
             <button
               type="button"

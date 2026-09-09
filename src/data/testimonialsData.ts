@@ -17,7 +17,7 @@ export const testimonialsData: TestimonialItem[] = [
   },
   {
     id: '3',
-    quote: 'For my wedding reception, I wanted editorial minimalism rather than heavy traditional cakey makeup. BLUSH BLOOM created a dewy, regal, effortless look that stayed flawless all night.',
+    quote: 'For my wedding reception, I wanted editorial minimalism rather than heavy traditional cakey makeup. ANUSALOON created a dewy, regal, effortless look that stayed flawless all night.',
     clientName: 'Zara Sheikh',
     roleOrService: 'Couture Bridal Artistry',
     location: 'DHA',

@@ -41,7 +41,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBooking }) => {
             className="group flex flex-col items-start select-none shrink-0 py-0.5"
           >
             <span className="font-serif text-[18px] sm:text-[22px] font-normal tracking-[0.24em] sm:tracking-[0.3em] leading-none text-ivory group-hover:text-champagne transition-colors duration-300">
-              BLUSH BLOOM
+              ANUSALOON
             </span>
             <span className="font-sans text-[7px] sm:text-[8px] tracking-[0.38em] sm:tracking-[0.45em] uppercase text-champagne font-medium mt-1">
               HAUTE BEAUTÉ

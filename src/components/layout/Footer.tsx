@@ -23,7 +23,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenBooking, onOpenLegal }) =>
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 pb-16 border-b border-dark-border/60">
           <div className="lg:col-span-7">
             <h2 className="font-serif text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-light tracking-tight leading-[0.95] text-ivory">
-              BLUSH BLOOM
+              ANUSALOON
             </h2>
             <p className="mt-4 font-serif italic text-xl sm:text-2xl text-sand/80 tracking-wide">
               {brandConfig.tagline}
@@ -137,7 +137,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenBooking, onOpenLegal }) =>
 
         {/* Bottom Legal & Copyright Bar */}
         <div className="pt-8 flex flex-col md:flex-row items-center justify-between text-xs font-sans text-sand/50 gap-4">
-          <p>© 2026 BLUSH BLOOM. All Rights Reserved.</p>
+          <p>© 2026 ANUSALOON. All Rights Reserved.</p>
           <div className="flex items-center space-x-6">
             <button
               type="button"

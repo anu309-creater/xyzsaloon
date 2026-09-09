@@ -69,7 +69,7 @@ export const BrandStatement: React.FC = () => {
               className="mt-5 sm:mt-6 space-y-4 max-w-xl text-rich-black/75 font-sans font-light text-xs sm:text-sm leading-relaxed"
             >
               <p>
-                Born in the cultural heart of Lahore, <strong className="font-medium text-rich-black">BLUSH BLOOM</strong> was founded on a singular conviction: true luxury should never be hurried, and personal beauty should never be uniform. We reject assembly-line salon culture in favor of quiet, deliberate craftsmanship.
+                Born in the cultural heart of Lahore, <strong className="font-medium text-rich-black">ANUSALOON</strong> was founded on a singular conviction: true luxury should never be hurried, and personal beauty should never be uniform. We reject assembly-line salon culture in favor of quiet, deliberate craftsmanship.
               </p>
               <p className="text-rich-black/65">
                 From regal bridal transformations to precision French balayage and restorative Japanese head spas, every appointment is treated as an intimate artistic collaboration designed to honor your individuality.
@@ -148,7 +148,7 @@ export const BrandStatement: React.FC = () => {
                       />
                       <text className="font-sans text-[7.2px] uppercase font-semibold tracking-[0.24em] fill-rich-black">
                         <textPath href="#atelierMedalCurve" startOffset="0%">
-                          ✦ BLUSH BLOOM ATELIER ✦ EST. 2016 ✦
+                          ✦ ANUSALOON ATELIER ✦ EST. 2016 ✦
                         </textPath>
                       </text>
                     </svg>
@@ -173,7 +173,7 @@ export const BrandStatement: React.FC = () => {
                 <div className="overflow-hidden rounded-xl aspect-[3/3.8] relative bg-[#EFE9DF]">
                   <img
                     src="/images/atelier-interior-main.jpg"
-                    alt="BLUSH BLOOM Haute Couture Architectural Salon Studio in Lahore"
+                    alt="ANUSALOON Haute Couture Architectural Salon Studio in Lahore"
                     loading="lazy"
                     decoding="async"
                     className="w-full h-full object-cover transition-transform duration-1000 ease-out group-hover:scale-104"
